@@ -1,8 +1,8 @@
 # Rira Task
 
-##برای فرخوانی سرویس ها از مدلهای زیر استفاده کنید##
+## برای فرخوانی سرویس ها از مدلهای زیر استفاده کنید
 
-###CreateUser
+### CreateUser
 ```json
 {
     "first_name": "name",
@@ -15,14 +15,14 @@
 }
 ```
 
-###GetUser
+### GetUser
 ```json
 {
     "id":1
 }
 ```
 
-###UpdateUser
+### UpdateUser
 ```json
 {
     "id": 1,
@@ -35,7 +35,7 @@
     }
 }
 ```
-###DeleteUser
+### DeleteUser
 ```json
 {
     "id":1
